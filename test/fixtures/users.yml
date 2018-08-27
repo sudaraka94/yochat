@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  last_seen: 2018-08-27 23:36:08
+  gender: false
+  age: 1
+
+two:
+  name: MyString
+  last_seen: 2018-08-27 23:36:08
+  gender: false
+  age: 1
